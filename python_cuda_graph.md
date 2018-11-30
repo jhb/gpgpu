@@ -7,8 +7,7 @@ I wanted to use python to do graph queries, accelerated by a GPU. Turns out, thi
 as easy as expected. Several elements are required.
 
 Before getting into any detail, there is one book I need to recommend:
-["Python High Performance - Second Edition"]
-(https://www.packtpub.com/application-development/python-high-performance-second-edition)
+["Python High Performance - Second Edition"](https://www.packtpub.com/application-development/python-high-performance-second-edition)
 
 The book helped me a lot in getting an understanding of cython, pypy, numpy, pandas, numba and cuda.
 
