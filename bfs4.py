@@ -1,3 +1,8 @@
+"""
+(c) Joerg Baach 2018, GPLv3
+
+"""
+
 import readgraph
 import time
 import numpy as np

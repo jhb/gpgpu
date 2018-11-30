@@ -12,5 +12,5 @@ for i in range(1,len(nodes)+1):
 for edge in edges:
     dot.edge(str(edge[0]),str(edge[1]))
 
-dot.render(os.path.join(os.getcwd(),'graph.png'))
+dot.render(os.path.join(os.getcwd(),'graph'),format='png')
 
